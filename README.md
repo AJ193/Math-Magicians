@@ -166,7 +166,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] **[I will Add API for the quotes generator function]**
 - [x] **[I will Deploy this page after completing all things]**
 <!-- CONTRIBUTING -->
 
