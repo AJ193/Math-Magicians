@@ -74,6 +74,7 @@ After you're finished please remove all the comments and instructions!
 - **[React Web App (SPA)]**
 - **[Styling css with colors, borders, paddings, margins & sizes, etc]**
 _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
+- **[Calculator Design]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -168,6 +169,7 @@ Example:
 
 - [x] **[I will Deploy this page after completing all things]**
 <!-- CONTRIBUTING -->
+- [x] **[Calculator Functionality]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
