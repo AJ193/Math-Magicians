@@ -71,10 +71,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[React Web App (SPA)]**
-- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
-_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
+- **[Design of the page]**
 - **[Calculator Design]**
+- **[Calculator functionality]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -169,7 +168,7 @@ Example:
 
 - [x] **[I will Deploy this page after completing all things]**
 <!-- CONTRIBUTING -->
-- [x] **[Calculator Functionality]**
+- [x] **[Fetch API]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
