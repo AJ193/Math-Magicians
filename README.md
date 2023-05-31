@@ -74,6 +74,8 @@ After you're finished please remove all the comments and instructions!
 - **[Design of the page]**
 - **[Calculator Design]**
 - **[Calculator functionality]**
+- **[Fetch API]**
+- **[Quote Generator]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -167,8 +169,6 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] **[I will Deploy this page after completing all things]**
-<!-- CONTRIBUTING -->
-- [x] **[Fetch API]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
