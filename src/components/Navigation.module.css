@@ -22,9 +22,9 @@ h1 {
 
 .links {
   text-decoration: none;
-  color: blue;
+  color: black;
 }
 
 .links:hover {
-  color: rgb(58, 58, 126);
+  color: blue;
 }
