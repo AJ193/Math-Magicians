@@ -76,6 +76,8 @@ After you're finished please remove all the comments and instructions!
 - **[Calculator functionality]**
 - **[Fetch API]**
 - **[Quote Generator]**
+- **[Full Website]**
+- **[3 Sub pages]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -194,6 +196,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-> This project has [MIT license](./LICENSE)
+> This project has [MIT license](./MIT.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
