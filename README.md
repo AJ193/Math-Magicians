@@ -82,7 +82,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming Soon
+- https://math-magicians-website-jjxd.onrender.com
 
 
 <!-- GETTING STARTED -->
