@@ -71,13 +71,18 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[React Web App (SPA)]**
-- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
-_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
+- **[Design of the page]**
+- **[Calculator Design]**
+- **[Calculator functionality]**
+- **[Fetch API]**
+- **[Quote Generator]**
+- **[Full Website]**
+- **[3 Sub pages]**
+- **[ Tests ]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming Soon
+- https://math-magicians-website-jjxd.onrender.com
 
 
 <!-- GETTING STARTED -->
@@ -167,7 +172,6 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] **[I will Deploy this page after completing all things]**
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -193,6 +197,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-> This project has [MIT license](./LICENSE)
+> This project has [MIT license](./MIT.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
