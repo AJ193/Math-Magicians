@@ -1,0 +1,14 @@
+.quotes {
+  height: 60vh;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  margin-top: 50px;
+  font-size: 30px;
+  color: brown;
+}
