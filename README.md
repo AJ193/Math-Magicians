@@ -78,10 +78,11 @@ After you're finished please remove all the comments and instructions!
 - **[Quote Generator]**
 - **[Full Website]**
 - **[3 Sub pages]**
+- **[ Tests ]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming Soon
+- https://math-magicians-website-jjxd.onrender.com
 
 
 <!-- GETTING STARTED -->
