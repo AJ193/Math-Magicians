@@ -50,10 +50,16 @@ After you're finished please remove all the comments and instructions!
 
 > This is _**Math Magicians (SPA)**_ Web App, The Web App is made up of one _Calculator_ and one Math-related _Quotes_ generator.  React, CSS, JS,  and API in are the basic tools for this project.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
 - JS
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
 ### Tech Stack <a name="tech-stack"></a>
 
 >  Gitflow, modules, and advanced React & JS (ES6) were use in the Math Magicians Web App.
@@ -66,6 +72,9 @@ After you're finished please remove all the comments and instructions!
      <li><a href="https://www.w3schools.com/css/">Javascript</a></li>
   </ul>
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Features -->
 
@@ -80,10 +89,13 @@ After you're finished please remove all the comments and instructions!
 - **[3 Sub pages]**
 - **[ Tests ]**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming Soon
-
+- https://math-magicians-website-jjxd.onrender.com
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 <!-- AUTHORS -->
@@ -92,12 +104,16 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 
 In order to run this project you need the following tools:
 - Node.js in your computer
 - IDE(e.g.: Vscode,...)
 - Terminal
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
@@ -108,6 +124,7 @@ Clone this repository to your desired folder:
   
   git clone https://github.com/AJ193/Math-Magicians.git
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Install
 
@@ -123,6 +140,7 @@ Clone this repository to your desired folder:
 ```
   npm run build
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Usage
 
@@ -132,6 +150,7 @@ To run the project, execute the following command:
   npm start
 
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
 
@@ -140,6 +159,8 @@ To run tests, run the following command:
 ```sh
   npm run test
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Usage
 _Run the project on Visual Studio Code Live Server._
 <!--
@@ -158,6 +179,8 @@ Example:
 
 ```
  -->
+ 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="author"></a>
 
@@ -168,16 +191,21 @@ Example:
 - Twitter: [@AJ](https://twitter.com/GhulamShabbir59)
 - LinkedIn: [@AJ](https://www.linkedin.com/in/ghulam-shabbir-225264247/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] **[I will Deploy this page after completing all things]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
