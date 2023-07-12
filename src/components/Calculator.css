@@ -56,13 +56,13 @@
 }
 
 button {
-  border: 1px solid #8f8f8f;
+  border: 1px solid black;
   padding: 11px 20px;
   color: black;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 button:active {
